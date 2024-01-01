@@ -116,4 +116,11 @@ OUPUT
 </html>
 ``````
 
-# OUPUT
+# OUTPUT
+![Screenshot 2024-01-01 133508](https://github.com/vthaanesh22/timetable/assets/139373686/588f4eb5-e569-433d-96d3-7755a9372ae5)
+# RESULT
+Thus the program was executed successfully.
+
+
+
+
